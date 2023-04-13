@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         userList[1] = new User("user", "123456");
         userList[2] = new User("tungnk123", "password");
         //
-
+        //test commit
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
